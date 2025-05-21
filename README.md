@@ -62,6 +62,7 @@ The application will be available at http://localhost:5173
 
 ## How It Works
 https://youtu.be/quuwZu3rK_w
+![Image](https://github.com/user-attachments/assets/ec5bec9c-2661-4538-a137-8ebd8dce8843)
 
 ### Creating a Wallet
 
